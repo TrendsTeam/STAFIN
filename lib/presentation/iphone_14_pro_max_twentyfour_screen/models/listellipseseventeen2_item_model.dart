@@ -1,0 +1,1 @@
+class Listellipseseventeen2ItemModel { }
